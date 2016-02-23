@@ -3,4 +3,4 @@ spring:
     name: admin-ui
   cloud:
     config:
-      uri: http://localhost:8888
+      uri: http://192.168.1.11:8888
